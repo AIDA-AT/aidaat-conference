@@ -33,7 +33,7 @@ You can explore more from reference resources:
     
     ``` cd ~ ```  # go to home directory, or your working space.
     
-    ``` git clone https://github.com/aidaat/aidaat-conference ```
+    ``` git clone git@github.com:aidaat/aidaat-conference.git ```
     
 4. Go to the clone repo directory, add your working results (source-code, pictures, documenation for reproduce experiments):
     ``` cd aidaat-conference/AIDA-AT2020 ```
