@@ -36,6 +36,7 @@ You can explore more from reference resources:
     ``` git clone git@github.com:aidaat/aidaat-conference.git ```
     
 4. Go to the clone repo directory, add your working results (source-code, pictures, documenation for reproduce experiments):
+    
     ``` cd aidaat-conference/AIDA-AT2020 ```
     
     ``` git pull origin master ``` # make sure you get the latest updates.
@@ -45,6 +46,7 @@ You can explore more from reference resources:
     ``` git checkout -b <your-branch-name> ```
     
     `<your-branch-name>` should be short, clear and informative, follow this pattern `aida-at-2020-paper-id-xxx`, where xxx is your accepted paper ID.
+    
     In my case, it will be: ``` git checkout -b aida-at-2020-paper-id-000 ```
     
     ## go to your paper ID folder, for example in my case: `PID_000`
@@ -60,7 +62,8 @@ You can explore more from reference resources:
     ``` git commit -m "<aida-2020-paper-id-000>" ```
     
     ``` git push origin <your-branch-name> ```
-    In my case: git push origin aida-at-2020-paper-id-000
+    
+    In my case: ``` git push origin aida-at-2020-paper-id-000 ```
     
 5. Goto your forked repo on Github, create the pull-request to AIDA-AT follow these pictures below:
     
@@ -69,6 +72,7 @@ You can explore more from reference resources:
     <picture>
     
 6. Wait for reviews & feedbacks from AIDA-AT staffs, then it will be merged to AIDA-AT repo.
+
 
 Thank for your attention!
 
