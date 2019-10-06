@@ -59,8 +59,8 @@ You can explore more from reference resources:
     
     ``` git add PID_000/ ```
     
-    ``` git commit -m "<aida-2020-paper-id-xxx>" ```
-    In my case: ``` git commit -m "<aida-2020-paper-id-000>"```
+    ``` git commit -m "<aida-at-2020-paper-id-xxx>" ```
+    In my case: ``` git commit -m "aida-at-2020-paper-id-000"```
     
     ``` git push origin <your-branch-name> ```
     In my case: ``` git push origin aida-at-2020-paper-id-000 ```
