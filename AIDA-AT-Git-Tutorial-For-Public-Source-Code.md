@@ -23,10 +23,11 @@ You can explore more from reference resources:
 
 # Step by step
 
+Suppose that the reseacher Tan have paper accepted `000` from AIDA-AT and his GitHub account is `tanthml`, he will follow step by step below to public his code to AIDA-AT GitHub.
+
 1. Go to AIDA-AT Conference GitHub repo : https://github.com/aidaat/aidaat-conference
 
 2. Fork it to your git,
-
 
 3. Clone the forked git repo to your local machine:
     For example, suppose this is my forked-repo from AIDA-AT, I will clone it to my local machine:
@@ -41,29 +42,29 @@ You can explore more from reference resources:
     
     ``` git pull origin master ``` # make sure you get the latest updates.
     
-    ## create a new branch for your work
+    ### create a new branch for your work
     
-    ``` git checkout -b <your-branch-name> ```
+    ``` git checkout -b your-branch-name ```
     
     `<your-branch-name>` should be short, clear and informative, follow this pattern `aida-at-2020-paper-id-xxx`, where xxx is your accepted paper ID.
     
     In my case, it will be: ``` git checkout -b aida-at-2020-paper-id-000 ```
     
-    ## go to your paper ID folder, for example in my case: `PID_000`
+    ### go to AIDA-AT2020 `aidaat-conference/AIDA-AT2020`
     
-    ## copy all your source code, sample data to this folder
+    ### copy all your source code, sample data, experiment result to this folder, for example in this case: `PID_000`
     
     `BE NOTICED THAT: YOU MUST WORK INSIDE YOUR FOLDER BELONG TO YOUR PAPER ID ONLY, DO NOT CHANGE ANYTHING OUTSIDE YOUR PAPER ID FOLDER`
     
-    ## add and commit your works
+    ### add and commit your works
     
     ``` git add PID_000/ ```
     
-    ``` git commit -m "<aida-at-2020-paper-id-xxx>" ```
-    In my case: ``` git commit -m "aida-at-2020-paper-id-000"```
+    ``` git commit -m "aida-at-2020-paper-id-xxx" ```
+    In this case: ``` git commit -m "aida-at-2020-paper-id-000"```
     
-    ``` git push origin <your-branch-name> ```
-    In my case: ``` git push origin aida-at-2020-paper-id-000 ```
+    ``` git push origin your-branch-name ```
+    In this case: ``` git push origin aida-at-2020-paper-id-000 ```
     
 5. Goto your forked repo on Github, create the pull-request to AIDA-AT follow these pictures below:
     
@@ -74,7 +75,7 @@ You can explore more from reference resources:
 6. Wait for reviews & feedbacks from AIDA-AT staffs, then it will be merged to AIDA-AT repo.
 
 
-Thank for your attention!
+Thank for your contributions!
 
     
     
