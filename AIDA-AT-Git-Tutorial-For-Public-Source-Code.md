@@ -77,7 +77,7 @@ In this example, it will be forked to `tanthml` located at : https://github.com/
     In this case: ``` git push origin aida-at-2020-paper-id-000 ```
     ![alt text](./img/git_push_to_forked_repo.png) 
     
-5. Goto your working branches from forked repo on Github via the https://github.com/<your-git-account>/aidaat-conference/branches
+5. Goto your working branches from forked repo on Github via the https://github.com/your-git-account/aidaat-conference/branches
 (In my example, it is : https://github.com/tanthml/aidaat-conference/branches)
     ![alt text](./img/git_branch_of_forked_repo.png)
     and create the pull-request to AIDA-AT follow these pictures below:
