@@ -17,7 +17,7 @@ Here is the step by step tutorial for my paper scripts.
 
 - All requirement packages are listed in `requirements.txt`
 
-- The `main.py` is the script to execute to get the analysis result with given sample data.
+- The `main_cli.py` is the script to execute to get the analysis result with given sample data.
 
 ## Reproduce step by step:
 
@@ -25,7 +25,7 @@ Here is the step by step tutorial for my paper scripts.
 ```pip install -r requirements.txt```
 
 #### Execute main.py to get result.
-```python main.py --input_path sample_flight_data.csv```
+```python main_cli.py --input_path sample_flight_data.csv```
 
 #### This is how the result look like:
 ![alt text](ori_vs_sim.png)
