@@ -26,7 +26,7 @@ You can explore more from reference resources:
 
 Example: Suppose that the reseacher Tan have paper accepted `000` from AIDA-AT and his GitHub account is `tanthml`, he will follow step by step below to public his code to AIDA-AT GitHub.
 
-1. Go to AIDA-AT Conference GitHub repo : https://github.com/aidaat/aidaat-conference
+1. Go to AIDA-AT Conference GitHub repo : https://github.com/AIDA-AT/aidaat-conference
 
 2. Fork it to your GitHub account.
 In this example, it will be forked to `tanthml` located at : https://github.com/tanthml/aidaat-conference
